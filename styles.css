@@ -1,14 +1,12 @@
 /*  your css code here. If applicable */
-.navbar{
+div{
 	background-color: #D3D3D3;
-	
 	padding: 10px;
-	
 }
-ul{
+div ul{
 	list-style-type:none;
 }
-li{
+div li{
 	margin-right: 1rem;
 	display: inline;
 }
